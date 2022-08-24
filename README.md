@@ -2,6 +2,8 @@
 
 # Postural Effects on an Individual’s RSA (Respiratory Sinus Arrhythmia)
 
+> The full research report can be read [here.](report/Postural-Effects-on-RSA-Reasearch-Paper.pdf)
+
 ### Table of Contents
 
 - [Abstract](#abstract)
@@ -19,8 +21,6 @@ The research study investigated the relationship between posture and RSA values.
 </p>
 
 <b><em>Index Terms — Electrocardiography (ECG), Respiration Inductance Plethysmography</em></b>
-
-> The full research report can be read [here.](report/Postural-Effects-on-RSA-Reasearch-Paper.pdf)
 
 [Back To The Top](#project)
 
@@ -57,9 +57,9 @@ The research study investigated the relationship between posture and RSA values.
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 
