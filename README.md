@@ -57,7 +57,7 @@ The research study investigated the relationship between posture and RSA values.
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia/)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
 - GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
 - Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
